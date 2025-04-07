@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rupali!
 
-<!--
-**kumari-rupali/kumari-rupali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** from India with experience in building web applications using **ReactJS, NodeJS, ExpressJS, and MySQL**.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap, TailwindCSS
+- **Backend:** NodeJS, ExpressJS
+- **Database:** MySQL, Workbench, DBeaver
+- **Tools:** Git, GitHub, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React (Hooks, Context API)
+- RESTful API Design
+- JWT auth
+- Socket.io
+- AWS Basics
+
+## 📈 GitHub Stats
+![Rupali's GitHub](https://github.com/kumari-rupali/kumari-rupali/)
+
+## 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/kumarirupali) | [Portfolio](https://kumarirupali-portfolio.vercel.com)
+
+
+
