@@ -19,7 +19,7 @@ I'm a passionate **Full Stack Developer** from India with experience in building
 ![Rupali's GitHub](https://github.com/kumari-rupali/kumari-rupali/)
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/kumarirupali) | [Portfolio](https://kumarirupali-portfolio.vercel.com)
+[LinkedIn](https://www.linkedin.com/in/kumarirupali) | [Portfolio](https://kumarirupali-portfolio.vercel.app/)
 
 
 
